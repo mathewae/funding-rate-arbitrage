@@ -11,7 +11,7 @@ from update import get_all_positions, get_all
 from telegram import Bot
 
 # Замените 'YOUR_BOT_TOKEN' на токен вашего Telegram бота
-TELEGRAM_BOT_TOKEN = '6731812244:AAEBqsIDPuoh-3H2lT0sbaE3WxBj2jrzlZI'
+TELEGRAM_BOT_TOKEN = 'token'
 
 # Замените 'YOUR_CHAT_ID' на ID чата, в который вы хотите отправлять уведомления
 TELEGRAM_CHAT_ID = 'https://t.me/positions_tracker_username_bot'
