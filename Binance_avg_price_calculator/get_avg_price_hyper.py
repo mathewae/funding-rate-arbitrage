@@ -5,11 +5,11 @@ import requests
 def get_trades(account):
 
     # Change to you accounts
-    account0 = "0x938eDcCc3Bfd33725443101e70398d10E35519D7"
-    account1 = "0x1939286838F986871e7A2d24253A8d01a7c2528e"
-    account2 = "0x76Dfe5d18078574A26ddEAA560E7031f140E264e"
-    account3 = "0x0050F3427E5388E9cc458e977bC3444faf015618"
-    account4 = "0x76Dfe5d18078574A26ddEAA560E7031f140E264e"
+    account0 = "1"
+    account1 = "2"
+    account2 = "3"
+    account3 = "4"
+    account4 = "5"
 
     if account ==0: account=account0
     elif account==1: account = account1
