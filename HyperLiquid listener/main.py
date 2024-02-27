@@ -15,11 +15,11 @@ time1 = int(time.time() * 1000) - 1000*60*60*24*(1)-1000*60*60*3
 url = f"https://api.hyperliquid.xyz/info"
 headers = {"accept": "application/json"}
 
-account0 = "0x938eDcCc3Bfd33725443101e70398d10E35519D7"
-account1 = "0x1939286838F986871e7A2d24253A8d01a7c2528e"
-account2 = "0x76Dfe5d18078574A26ddEAA560E7031f140E264e"
-account3 = "0x0050F3427E5388E9cc458e977bC3444faf015618"
-account4 = "0xf394366d39128Ffe132289744FCaB4F56b22D686"
+account0 = "1"
+account1 = "2"
+account2 = "3"
+account3 = "4"
+account4 = "5"
 
 account = account2
 
