@@ -5,7 +5,7 @@ import os
 import time
 import requests
 
-TELEGRAM_BOT_TOKEN = '6864212385:AAEKcOYArxlWhg3uADno8QcPSGXIw_0-gqU'
+TELEGRAM_BOT_TOKEN = 'your token'
 
 bot = telebot.TeleBot(TELEGRAM_BOT_TOKEN)
 
