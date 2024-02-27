@@ -12,8 +12,8 @@ z_score_window = 21
 api_key_mainnet = ""
 api_secret_mainnet = ""
 
-api_key_testnet = "FoTkxkqQsl2BgI6GAP"
-api_secret_testnet = "ecOatcawm9jlIJZbkciIbefRYRS6BziyNIy1"
+api_key_testnet = "key"
+api_secret_testnet = "secret"
 
 api_key = api_key_testnet if mode == "test" else api_key_mainnet
 
